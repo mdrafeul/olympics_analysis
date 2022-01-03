@@ -8,7 +8,7 @@ I tried to analysis Olympics events dataset over the year.
 ## Usage
 - Install streamlit 
 - Clone the directory 
-- In the directory run your shell and type 'streamlit run app.py'
+- In the directory run your shell and type 'streamlit run app.py
 
 ## Overview of the Analysis
 Some hightlights and images are included below. 
